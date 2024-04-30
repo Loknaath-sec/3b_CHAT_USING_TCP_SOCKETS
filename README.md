@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+### Name: LOKNAATH P
+### Register Number: 212223240080
 ## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
